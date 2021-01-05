@@ -1,6 +1,6 @@
 # Deep-Learning-Specialization
 
-These projects were a part of the 4-course specialization
+These projects were a part of the 5-course specialization offered by Deeplearning.Ai
 
 This is is a part of the DeepLearning.AI TensorFlow Developer Professional Certificate offered on Coursera. All copyrights belong to them. I am sharing this work here to showcase the projects I have worked on
 
